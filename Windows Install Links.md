@@ -20,7 +20,8 @@
 
 # Windows Install Links - For Pre-Injected Drivers
 
-### [Windows 7](https://drive.google.com/drive/folders/1DUI6qVKfcXcF3UwjPlZA__KK0dQh47_Z?usp=drive_link)
+### [Windows 7](https://drive.google.com/drive/folders/1co75gW1-M14x5sg73E-KhIQYqAr7MDqW?usp=drive_link)
+
 
 
 
