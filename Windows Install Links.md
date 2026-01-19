@@ -16,4 +16,15 @@
 
 ### [Windows XP](https://massgrave.dev/windows_xp_links)
 
+---
+
+# Windows Install Links - For Pre-Injected Drivers
+
+### [Windows 7](https://drive.google.com/drive/folders/1DUI6qVKfcXcF3UwjPlZA__KK0dQh47_Z?usp=drive_link)
+
+
+
+
+
+
 
